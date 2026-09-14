@@ -1,0 +1,67 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: blanchedalmond;
+   
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+p {
+    text-align: center;
+    padding-left: 5px;
+}
+
+h1 {
+    text-align: center;
+    padding-left: 5px;
+    background-color: darkslategrey;
+    color: white
+}
+
+h2{
+    text-align: center;
+    background-color: darkolivegreen;
+    color:white
+}
+
+h3{
+    text-align: center;
+    background-color: darkolivegreen;
+    color:white
+}
+
+ol.amenities{
+    text-align: center;
+    list-style-position: inside;
+    padding-right: 40px;
+    font-weight: bold;
+}
+
+ul.activities{
+    list-style: none;
+    text-align: center;
+    padding-right: 40px;
+    font-weight: bold;
+}
+
+a.link {
+    
+  display: block;
+  width: max-content; 
+  margin: 0 auto;    
+}
+
+a.link:hover{
+color: blueviolet;
+}
+
+a.link:active{
+    color:crimson
+}
